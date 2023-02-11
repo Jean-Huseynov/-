@@ -3,14 +3,14 @@
 
 
 
-abstract	
-arguments	
-await
-boolean
-break
-byte	
-case	
-catch
+abstract	- абстрактный
+arguments	- аргументы
+await - ждать
+boolean - логический
+break - перерыв
+byte	- байт
+case	- случай
+catch - ловить
 char	
 class
 const	
